@@ -11,8 +11,14 @@ first()
 
 
 def somme(a,b):
-
     s=a+b
     print(s)
 
 somme (4,6)
+
+def dif(a,b):
+    d=a-b
+    return(d)
+
+c=dif(9,4)
+print(c)
