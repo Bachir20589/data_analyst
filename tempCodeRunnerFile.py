@@ -1,0 +1,1 @@
+os.remove("jour5.txt")
