@@ -1,0 +1,5 @@
+nom,filiere,age,poids,date
+NaN,Ing1,20,40,'2010-04-10'
+Bachir,Ing3,19,43,'2020-05-09'
+Ali,Ing2,18,NaN,20251020
+Awa,Ing2,NaN,45,NaN
